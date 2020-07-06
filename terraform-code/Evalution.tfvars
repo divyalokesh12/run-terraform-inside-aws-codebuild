@@ -1,0 +1,13 @@
+vpc_id = "vpc-e72dcd9a"
+access_key="AKIAURDPABCJEYD6B576"
+secret_key="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"
+region="us-east-1"
+env = "Evaluation"
+Web_instance_count = "3"
+Backend_instance_count = "3"
+ami_id="ami-0a77883fd995b1646"
+key_pair="terraform1"
+UI_instance_type="t2.micro"
+Tomcat_instance_type="t2.micro"
+subnet_public=["subnet-166cbd49","subnet-993255d4"]
+subnet_private=["subnet-ad1dc9cb","subnet-add1038c"]
