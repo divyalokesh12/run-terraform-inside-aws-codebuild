@@ -63,7 +63,7 @@
             ]
           },
           "Source": {
-            "Location": "https://github.com/giuseppeborgese/run-terraform-inside-aws-codebuild",
+            "Location": "https://github.com/divyalokesh12/run-terraform-inside-aws-codebuild",
             "Type": "GITHUB"
           },
           "TimeoutInMinutes": 10,
